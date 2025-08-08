@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mindful-kids/static/css/main.944e385d.css",
-    "main.js": "/mindful-kids/static/js/main.ae004885.js",
+    "main.js": "/mindful-kids/static/js/main.80b37a3d.js",
     "static/js/453.24bb4052.chunk.js": "/mindful-kids/static/js/453.24bb4052.chunk.js",
     "index.html": "/mindful-kids/index.html",
     "main.944e385d.css.map": "/mindful-kids/static/css/main.944e385d.css.map",
-    "main.ae004885.js.map": "/mindful-kids/static/js/main.ae004885.js.map",
+    "main.80b37a3d.js.map": "/mindful-kids/static/js/main.80b37a3d.js.map",
     "453.24bb4052.chunk.js.map": "/mindful-kids/static/js/453.24bb4052.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.944e385d.css",
-    "static/js/main.ae004885.js"
+    "static/js/main.80b37a3d.js"
   ]
 }
