@@ -1,0 +1,9 @@
+
+.hover-btn {
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.hover-btn:hover {
+  transform: scale(1.08);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.25);
+}
